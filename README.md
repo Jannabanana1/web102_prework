@@ -23,7 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+<<<<<<< HEAD
 <img src='https://drive.google.com/file/d/1diKlNcj8bLpcnp0BbiaXZfqs1tT2kc4w/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+=======
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://drive.google.com/file/d/1diKlNcj8bLpcnp0BbiaXZfqs1tT2kc4w/view?usp=sharing')' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+>>>>>>> 092e0f27eb1fc09dfc41107c56b007e985782b5a
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with QuickTime
